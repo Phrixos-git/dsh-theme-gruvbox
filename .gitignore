@@ -1,0 +1,23 @@
+# Dependencies and local build output
+node_modules/
+/dist/
+/coverage/
+/*.tgz
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.npmrc
+/.dsh/
+/.aws/
+/.agents/
+/.codex/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
