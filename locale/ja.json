@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Gruvbox テーマ",
+    "description": "Web GUI の配色を Gruvbox パレット（https://github.com/morhetz/gruvbox）に変更します。レイアウトは既定のままです。Gruvbox のライト／ダークは、設定 > 一般 > 外観 の「ライト」「ダーク」「システム」にそのまま従います。既定の配色に戻すには、プラグイン画面でこのプラグインをオフにしてください。"
+  }
+}

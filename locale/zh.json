@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Gruvbox 主题",
+    "description": "使用 Gruvbox 调色板（https://github.com/morhetz/gruvbox）重新着色 Web GUI，同时保持默认布局。浅色和深色 Gruvbox 调色板遵循 设置 > 通用 > 外观 中的“浅色”“深色”或“跟随系统”。在“插件”中关闭此插件可恢复默认颜色。"
+  }
+}

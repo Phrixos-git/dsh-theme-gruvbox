@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Gruvbox theme",
+    "description": "Recolors the Web GUI with the Gruvbox palette (https://github.com/morhetz/gruvbox) and keeps the default layout. Light and dark Gruvbox palettes follow Settings > General > Appearance (Light, Dark, or System). Turn this plugin off in Plugins to restore the stock colors."
+  }
+}

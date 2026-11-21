@@ -1,0 +1,6 @@
+# Gruvbox theme bundle patch.
+# Inserts the browser theme row into the web composition; the Client module
+# owns the actual token layer.
+- insert:
+    - id: gruvbox-theme
+      name: '@local/dsh-theme-gruvbox'
